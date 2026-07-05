@@ -10,9 +10,7 @@
 
 ## 🤖 About Me
 
-Final-year Electrical Engineer with a strong foundation in power systems and embedded engineering, actively building real-world AI systems — from IoT pipelines with ML anomaly detection to locally-hosted LLM chatbots and production-grade Agentic AI workflows.
-
-I come from an engineering background but I believe the future belongs to those who can combine domain knowledge with AI — and that is exactly what I am building towards.
+Electrical Engineer with a deep passion for AI and machine learning. I build real-world AI systems including IoT pipelines with ML anomaly detection, locally-hosted RAG chatbots, and production-grade Agentic AI workflows. My engineering foundation gives me an edge in understanding the physical systems I build intelligence on top of, and that combination is exactly what drives my work.
 
 ---
 
@@ -20,22 +18,22 @@ I come from an engineering background but I believe the future belongs to those 
 
 ### [Smart OLTC Transformer System with IoT Monitoring & AI/ML Intelligence](https://github.com/shahagenticai-hub/smart-oltc-transformer-iot-ai)
 
-> A complete end-to-end IoT and AI system built on a custom-designed Smart On-Load Tap Changing (OLTC) Transformer — combining embedded hardware, cloud IoT pipeline, machine learning and a locally-hosted RAG-based AI chatbot.
+A complete end-to-end IoT and AI system built on a custom-designed Smart On-Load Tap Changing (OLTC) Transformer, combining embedded hardware, cloud IoT pipeline, machine learning and a locally-hosted RAG-based AI chatbot.
 
 | Layer | Technology |
 |-------|-----------|
 | Hardware | Arduino Mega, ESP32, Zero-cross SSRs, Custom 14-tap Transformer |
 | IoT Pipeline | MQTT, HiveMQ Cloud, FastAPI, SQLite |
-| ML | Isolation Forest (scikit-learn) — real-time anomaly detection |
+| ML | Isolation Forest (scikit-learn) for real-time anomaly detection |
 | Mobile App | Flutter, Dart, fl_chart |
-| AI Chatbot | Ollama, Phi-3, RAG — fully offline, zero cloud dependency |
+| AI Chatbot | Ollama, Phi-3, RAG, fully offline with zero cloud dependency |
 
 **Key highlights:**
 - Replaced mechanical OLTC contacts with zero-cross detection SSRs, eliminating arcing and achieving millisecond-level switching precision
-- Built complete IoT pipeline: ESP32 → MQTT → FastAPI → SQLite → Flutter app
+- Built complete IoT pipeline connecting ESP32, MQTT, FastAPI, SQLite and a Flutter mobile app
 - Isolation Forest ML model for non-linear anomaly detection across voltage, current, power and temperature
 - Predictive maintenance scoring based on tap-switching frequency and thermal stress
-- Locally-hosted RAG chatbot answering natural-language questions about live sensor data
+- Locally-hosted RAG chatbot answering natural-language questions about live sensor data, running completely offline
 
 ---
 
