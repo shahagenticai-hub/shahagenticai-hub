@@ -77,8 +77,3 @@ A complete end-to-end IoT and AI system built on a custom-designed Smart On-Load
 - **Introduction to Gemini Enterprise** — Google Cloud · Google Skills
 
 ---
-
-## 📊 GitHub Stats
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahagenticai-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahagenticai-hub&layout=compact&theme=tokyonight&hide_border=true)
