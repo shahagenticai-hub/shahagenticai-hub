@@ -76,4 +76,3 @@ A complete end-to-end IoT and AI system built on a custom-designed Smart On-Load
 - **Understand Google Cloud Agents** — Google Cloud · Google Skills
 - **Introduction to Gemini Enterprise** — Google Cloud · Google Skills
 
----
